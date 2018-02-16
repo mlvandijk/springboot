@@ -8,3 +8,5 @@ Run with `mvn package && java -jar target/springboot-0.1.0.jar`
 ### Check out the service
 You can check out the service at `localhost:8080`.
 You should get the following message: `Greetings from Spring Boot!`
+
+To check the health of the app, go to `localhost:8080/health`.
